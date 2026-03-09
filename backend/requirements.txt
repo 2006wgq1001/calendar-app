@@ -1,4 +1,5 @@
 Flask==2.3.3
 Flask-CORS==4.0.0
 Flask-SQLAlchemy==3.0.5
-waitress==2.1.2  # 用 waitress 替代 gunicorn
+Flask-Session==0.8.0
+waitress==2.1.2
